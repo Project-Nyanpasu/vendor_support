@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.arrow.support.colorpicker;
+package moe.reallysnow.support.colorpicker;
 
 import android.app.AlertDialog;
 import android.app.NotificationManager;
@@ -31,7 +31,7 @@ import android.widget.LinearLayout;
 
 import androidx.annotation.NonNull;
 
-import com.arrow.support.R;
+import moe.reallysnow.support.R;
 
 public class ColorPickerDialog extends AlertDialog implements ColorPickerView.OnColorChangedListener, View.OnClickListener {
 

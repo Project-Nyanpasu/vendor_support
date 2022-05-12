@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.arrow.support.colorpicker;
+package moe.reallysnow.support.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;

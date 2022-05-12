@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.arrow.support.preferences;
+package moe.reallysnow.support.preferences;
 
 import android.content.Context;
 import android.content.Intent;
@@ -32,7 +32,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.arrow.support.R;
+import moe.reallysnow.support.R;
 
 import java.util.Collections;
 import java.util.LinkedList;
